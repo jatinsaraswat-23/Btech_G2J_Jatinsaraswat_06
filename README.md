@@ -1,2 +1,2 @@
-# Btech_G2J_Jatin Saraswat_06
+# Btech_G2J_JatinSaraswat_06
 C Programs
