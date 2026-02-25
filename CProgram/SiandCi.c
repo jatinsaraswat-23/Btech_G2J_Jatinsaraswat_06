@@ -11,9 +11,5 @@ int main()
     printf("Simple Interest = %f\n",SI);
     printf("Compound Interest = %f",CI);
 
-
     return 0;
-
-
-
 }
