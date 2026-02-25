@@ -11,5 +11,4 @@ int main()
     printf("New value of b is %d",b);
 
     return 0;
-
 }
