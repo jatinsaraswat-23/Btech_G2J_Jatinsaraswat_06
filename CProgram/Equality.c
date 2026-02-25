@@ -9,5 +9,6 @@ int main()
     } else {
         printf("Numbers are not equal\n");
     }
+    
     return 0;
 }
