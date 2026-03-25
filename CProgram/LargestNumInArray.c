@@ -15,7 +15,7 @@ int main()
             largest = array[i];
         }
     }
-    printf("The largest element in the array is: %d\n", largest);
+    printf("The largest element in the array is: %d", largest);
 
     return 0;
 }
